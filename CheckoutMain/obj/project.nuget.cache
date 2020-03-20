@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jouE9muaxPWeZP53dKOJMN7ORf6VhdnxyCaep86Sn783q4MIpdAkaQHo7I0EWmGoFuT33JzOPXiEIQaXDTs3A==",
+  "success": true,
+  "projectFilePath": "/Users/siandanforth/CheckoutKata/CheckoutMain/CheckoutMain.csproj",
+  "expectedPackageFiles": [
+    "/Users/siandanforth/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/siandanforth/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

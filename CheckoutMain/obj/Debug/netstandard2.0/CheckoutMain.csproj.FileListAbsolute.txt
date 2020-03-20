@@ -1,0 +1,9 @@
+/Users/siandanforth/CheckoutKata/CheckoutMain/bin/Debug/netstandard2.0/CheckoutMain.deps.json
+/Users/siandanforth/CheckoutKata/CheckoutMain/bin/Debug/netstandard2.0/CheckoutMain.dll
+/Users/siandanforth/CheckoutKata/CheckoutMain/bin/Debug/netstandard2.0/CheckoutMain.pdb
+/Users/siandanforth/CheckoutKata/CheckoutMain/obj/Debug/netstandard2.0/CheckoutMain.csprojAssemblyReference.cache
+/Users/siandanforth/CheckoutKata/CheckoutMain/obj/Debug/netstandard2.0/CheckoutMain.csproj.CoreCompileInputs.cache
+/Users/siandanforth/CheckoutKata/CheckoutMain/obj/Debug/netstandard2.0/CheckoutMain.AssemblyInfoInputs.cache
+/Users/siandanforth/CheckoutKata/CheckoutMain/obj/Debug/netstandard2.0/CheckoutMain.AssemblyInfo.cs
+/Users/siandanforth/CheckoutKata/CheckoutMain/obj/Debug/netstandard2.0/CheckoutMain.dll
+/Users/siandanforth/CheckoutKata/CheckoutMain/obj/Debug/netstandard2.0/CheckoutMain.pdb
